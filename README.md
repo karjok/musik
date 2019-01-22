@@ -6,8 +6,9 @@ Alat untuk download musik, lirik, chord dan mengolahnya secara offline
 * pkg install mpv
 
 * git clone https://github.com/karjok/musik
-* pip install -r requirements.txt
 * cd musik
+* pip install -r requirements.txt
+
 * python musik.py
 # Kontak
 * hubungin aku kalo ada masalah, kaya error atau pertanyaan mengenai tool ini.
